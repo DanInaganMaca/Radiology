@@ -395,6 +395,13 @@
 }
 
 
+/*** ################# Blog ############## ***/ 
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 1400px;
+}
+
 /*** Footer ***/
 
 .footer .btn.btn-link {
