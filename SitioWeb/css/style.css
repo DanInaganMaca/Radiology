@@ -446,3 +446,7 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+.blogInfo {
+    margin: 20
+}
